@@ -1,4 +1,4 @@
-from pynput.keyboard import Key, Controller
+from pynput.keyboard import Controller
 import keyboard
 import time
 from PIL import ImageGrab
